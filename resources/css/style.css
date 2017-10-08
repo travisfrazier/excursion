@@ -24,3 +24,16 @@ p {
  font-family: verdana;
  font-size: 21px 
 }
+footer {
+  text-align: right; 
+  color: gray;
+}
+video {
+  object-fit: contain;
+}
+embed {
+  pointer-events: non;
+}
+a {
+  color: aquamarine;
+}
